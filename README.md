@@ -1,7 +1,7 @@
 # classification_credit_bancaire
 ### Projet Data Science : Développement d'un modèle de machine learning pour un problème de classification de crédit bancaire.
 
-### Ce Projet Python accomplit plusieurs tâches pour le traitement des données, l'exploration des données (EDA), la modélisation et l'évaluation d'un modèle de machine learning pour un problème de classification de crédit bancaire. Voici une explication détaillée de ce que fait chaque partie du code :
+#### Ce Projet Python accomplit plusieurs tâches pour le traitement des données, l'exploration des données (EDA), la modélisation et l'évaluation d'un modèle de machine learning pour un problème de classification de crédit bancaire. Voici une explication détaillée de ce que fait chaque partie du code :
 
 #### 1- Importation des bibliothèques : Les bibliothèques nécessaires telles que NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, etc., sont importées pour effectuer diverses opérations.
 
